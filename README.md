@@ -69,13 +69,3 @@ BinBuddy is an intelligent, autonomous robot built for real-time waste detection
 8. The robot will now move towards detected waste and sort it automatically.
 
 ---
-
-## 🤖 ESP8266 and Arduino Communication
-
-ESP8266 receives:
-```json
-{
-  "label": "metal",
-  "x": 322,
-  "y": 211
-}
